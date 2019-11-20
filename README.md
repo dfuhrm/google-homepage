@@ -1,0 +1,2 @@
+Beginning:
+This, I think, is my first actual website project with the oden project. So far, I've run tests and stuff with HTML & CSS but I haven't really put it to practice. I think I'll catch on a lot more now that I'm actually coding. IDK though we'll see.
